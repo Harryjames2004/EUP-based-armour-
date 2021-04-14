@@ -1,4 +1,4 @@
-# EUP-Based-Armor
+# EUP-Based-Armor-Script
 This basic script syncs your EUPs vest with the in game Armor function (Made with https://github.com/bluedll)
 
 Change the numbers inside the first if statement to your EUPs vest numbers that appear inside vMenu
