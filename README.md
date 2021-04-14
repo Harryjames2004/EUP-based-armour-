@@ -1,5 +1,7 @@
-# EUP-based-armour
-The script adds armour to you if you are wearing a body armour and then removes the armour from you when you take off your body armour. :)
+# EUP-Based-Armor
+This basic script syncs your EUPs vest with the in game Armor function (Made with https://github.com/bluedll)
 
-Joint project with https://github.com/bluedll
+Change the numbers inside the first if statement to your EUPs vest numbers that appear inside vMenu
+
+Made by https://github.com/Harryjames2004 and https://github.com/bluedll
 
